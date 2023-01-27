@@ -1,0 +1,14 @@
+.header {
+	position: sticky;
+	top: 0;
+	display: flex;
+	justify-content: space-between;
+	gap: 2rem;
+	padding: .25rem;
+	border-bottom: 1px solid #ddd;
+	background-color: white;
+}
+
+.header .menu {
+	flex: 1;
+}
