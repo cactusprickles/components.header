@@ -1,0 +1,24 @@
+.header {
+	position: sticky;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: .25rem;
+	padding: .25rem;
+	border-bottom: 1px solid #ddd;
+	background-color: white;
+}
+
+.header .menu {
+	flex: 1;
+}
+
+.header .avatar {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: .35rem .25rem;
+	aspect-ratio: 1 / 1;
+}

@@ -7,3 +7,7 @@
 ![image](https://user-images.githubusercontent.com/87294942/215110965-63f46fa5-abc0-4d69-b799-abf157ed7334.png)
 
 로고 / 메뉴 / 로그인정보 형태로 제가 생각하는 가장 기본적인 형태의 Header입니다.
+
+### VerticalHeader
+
+SimpleHeader의 세로버전입니다.
