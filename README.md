@@ -10,4 +10,6 @@
 
 ### VerticalHeader
 
+![image](https://user-images.githubusercontent.com/87294942/216537947-a70ae12c-2eb1-4612-ac00-c8deaf8f5292.png)
+
 SimpleHeader의 세로버전입니다.
